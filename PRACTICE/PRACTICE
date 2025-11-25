@@ -1,0 +1,39 @@
+"""
+print ("Hello World!")
+print ("Hello" , "World")
+print ("Hello" +"World")
+print ( 55 + 5)
+print ( 50 / 5)
+print ( 40 % 5)
+print (12 ** 2)
+print ("Sum = "  , 55 + 5 , "Quotient = " , 50 / 5 , "Remainder = " , 40 % 5 , "Exponent = " , 12 * 2)
+age = 29
+print ( " My age =" , age)
+older = age + 2 
+print ( " My brothers age =" , older )
+print ( " My sisters age " , age -4)
+print ( " My friends age" , age + 1)
+print (" My cousins age " , age + 5)
+print ( " My mothers age" , age + 20)
+var1 = age + older
+print ( var1)
+var2 = age - 2 
+print ( var2)
+var3 = age / 2
+print ( var3)
+var4 = age * 3
+print ( var4)
+var5 = age % 8
+print ( var5)
+name = ' aiman'
+print (f"hello {name} !" )
+"""
+age = int(input("enter age: "))
+name = input("name: ")
+university = input("university: ")
+year = int(input("year: "))
+
+print(age)
+print(name)
+print(university)
+print(year)

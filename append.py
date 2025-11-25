@@ -1,0 +1,31 @@
+"""
+names=["izaa","huma","eman","ayesha"]
+print(names)
+names.append("sara")
+print(names)
+names.insert(2,"Aiman")
+print(names)
+names.remove("eman")
+print(names)
+names.sort()
+print(names)
+names.reverse()
+print(names)
+names1=["Izza","Huma", "eman","Ayesha", "John", "sara"]
+print(names1[3:6])
+print(names1[:4])
+print(names1[2:])
+print(names1[-2:])
+"""
+Countries=["Pakistan", "India", "UK" , "USA", "Canada" , "Palestine", "Iran"]
+print(Countries)
+Countries.sort()
+print(Countries)
+Countries.reverse()
+print(Countries)
+Countries.sort()
+print(Countries)
+Countries.append("Iraq")
+print(Countries)
+Countries.append("Algeria")
+print(Countries)

@@ -1,0 +1,11 @@
+def display_message ():
+   print("Hello aiman")
+display_message()
+def favorite_book(title):
+    print("Harry Potter is my favourite book")
+favorite_book("Harry Potter")
+def make_shirt(message,size):
+    print("The message on my shirt is "+message, "The size of my shirt is " + size) 
+make_shirt("Yellow shirt", "XL")
+
+
